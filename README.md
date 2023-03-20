@@ -4,7 +4,7 @@
 ## CV
 ## Projects
 ## Publications (SSCI)
-### Google Scholar: https://scholar.google.com/citations?user=TAmp1S4AAAAJ&hl=tr&oi=ao
+    * Google Scholar: https://scholar.google.com/citations?user=TAmp1S4AAAAJ&hl=tr&oi=ao
 
 
 <!--
