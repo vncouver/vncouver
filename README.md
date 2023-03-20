@@ -4,9 +4,11 @@
 ## CV
 ## Projects
 ## Publications (SSCI)
-    * Google Scholar 👯
+    * [Google Scholar]
 
 [Google Scholar]: <[http://daringfireball.net](https://scholar.google.com/citations?user=TAmp1S4AAAAJ&hl=tr&oi=ao)>
+
+
 
 <!--
 **vncouver/vncouver** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
