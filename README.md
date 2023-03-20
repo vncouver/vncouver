@@ -4,9 +4,10 @@
 ## CV
 ## Projects
 ## Publications (SSCI)
-    * [Google Scholar]
+   * [Google Scholar]
 
-[Google Scholar]: <[http://daringfireball.net](https://scholar.google.com/citations?user=TAmp1S4AAAAJ&hl=tr&oi=ao)>
+[Google Scholar]: <https://scholar.google.com.tr/citations?user=TAmp1S4AAAAJ&hl=tr&oi=ao>
+
 
 
 
