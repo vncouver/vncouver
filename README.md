@@ -6,7 +6,7 @@
 ## Publications (SSCI)
    * [Google Scholar]
 
-[Google Scholar]: <https://scholar.google.com.tr/citations?user=TAmp1S4AAAAJ&hl=tr&oi=ao>
+[Google Scholar]: <http://daringfireball.net>
 
 
 
