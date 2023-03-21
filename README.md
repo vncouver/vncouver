@@ -6,6 +6,8 @@
 ## Publications (SSCI)
    * [Google Scholar]
 
+## Social
+
 [Google Scholar]: <https://scholar.google.com.tr/citations?user=TAmp1S4AAAAJ&hl=tr&oi=ao>
 
 
