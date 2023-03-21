@@ -5,10 +5,11 @@
 ## Projects
 ## Publications (SSCI)
    * [Google Scholar]
+   * [ORCID ID]
 
 ## Social
   * [Linkedin]
-  * [ORCID ID]
+
 
 [Google Scholar]: <https://scholar.google.com.tr/citations?user=TAmp1S4AAAAJ&hl=tr&oi=ao>
 [Linkedin]: <https://www.linkedin.com/in/merterkansozen>
