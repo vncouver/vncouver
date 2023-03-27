@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+Mert Erkan SÖZEN, Ph.D.
+Resume
+
+
+![Screenshot](screenshot.png)
+
+
 # PRTFOLIO
 ## CV
 ## Projects
