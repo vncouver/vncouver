@@ -1,11 +1,15 @@
 ### Hi there 👋
 
 Mert Erkan SÖZEN, Ph.D.
+
 Resume
 
+<!--
+![Screenshot](IMG_0486.jpeg)
+-->
 
-![Screenshot](screenshot.png)
 
+<img src="IMG_0486.jpeg" width="231" height="308" />
 
 # PRTFOLIO
 ## CV
