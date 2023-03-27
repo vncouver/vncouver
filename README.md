@@ -2,7 +2,7 @@
 
 Mert Erkan SÖZEN, Ph.D.
 
-Resume
+_Resume_
 
 <!--
 ![Screenshot](IMG_0486.jpeg)
