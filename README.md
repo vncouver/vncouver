@@ -1,4 +1,4 @@
-<img src="foto.png" width="231" height="308" />
+<img src="foto.png" width="567" height="569" />
 
 
 ### Hi there 👋
