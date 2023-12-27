@@ -2,6 +2,9 @@
 
 Mert Erkan SÖZEN, Ph.D.
 
+st.write("Halkla ilişkiler departmanına gelen çağrılar ve bu çağrılara verilen cevaplar arasındaki ilişkinin dil modelleri ile ortaya çıkartılması çalışması  :balloon:")
+
+
 _Resume_
 
 <!--
