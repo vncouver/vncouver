@@ -21,9 +21,7 @@ _Resume_
 
 ### Projeler
 
-[1. deneme](https://share.streamlit.io/vncouver/vncouver/main/sp500-app.py)
-
-Bla bla konsundaki en büyük bla bla
+1. Proje: Bla bla konsundaki en büyük bla bla: [link](https://share.streamlit.io/vncouver/vncouver/main/sp500-app.py)
  - Kullanılan kütüphaneler:
  - Veri Seti:
  - Yayınlanan dergi...
