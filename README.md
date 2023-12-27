@@ -1,3 +1,6 @@
+<img src="foto.png" width="231" height="308" />
+
+
 ### Hi there 👋
 
 Mert Erkan SÖZEN, Ph.D.
@@ -12,7 +15,6 @@ _Resume_
 -->
 
 
-<img src="IMG_0486.jpeg" width="231" height="308" />
 
 # PRTFOLIO
 ## CV
