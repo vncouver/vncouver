@@ -5,7 +5,11 @@
 
 Mert Erkan SÖZEN, Ph.D.
 
+# Data Scientist
+
 FDenememmmmlesı  :balloon:")
+
+### Education
 
 
 _Resume_
