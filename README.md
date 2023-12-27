@@ -21,7 +21,7 @@ _Resume_
 
 ### Projeler
 
-[!["deneme")](https://share.streamlit.io/vncouver/vncouver/main/sp500-app.py)
+[deneme](https://share.streamlit.io/vncouver/vncouver/main/sp500-app.py)
 
 
 
