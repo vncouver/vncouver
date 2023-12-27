@@ -21,7 +21,7 @@ _Resume_
 
 ### Projeler
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/vncouver/vncouver/main/sp500-app.py)
+[!["deneme")](https://share.streamlit.io/vncouver/vncouver/main/sp500-app.py)
 
 
 
